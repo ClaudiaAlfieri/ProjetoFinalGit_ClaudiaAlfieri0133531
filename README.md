@@ -8,7 +8,9 @@
 ![ATEC](https://img.shields.io/badge/Training-TPSI%20%7C%20ATEC-darkgreen?style=for-the-badge)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 
-> Simple web project developed in HTML, CSS and JavaScript as a practical assessment for UC00617 — Using Git and GitHub Services, part of the CET TPSI course at ATEC.
+> Simple web project developed in HTML, CSS and JavaScript as a practical assessment for UC00617
+>
+>  Using Git and GitHub Services, part of the CET TPSI course at ATEC.
 
 ---
 
